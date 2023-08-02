@@ -2,8 +2,8 @@
 
 ## 📚**프로젝트 개요**
 
-https://www.notion.so/f8fd40b37556419f9c9d400af3cd50c3?pvs=4#c4ead00fce8046f5a7dd3c2a50e7939a
-
+[https://www.notion.so/f8fd40b37556419f9c9d400af3cd50c3?pvs=4#c4ead00fce8046f5a7dd3c2a50e7939a
+](https://m.boostcourse.org/mo316/intro)
 
 [부스트코스]안드로이드 앱 프로그래밍
 
