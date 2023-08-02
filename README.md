@@ -1,8 +1,8 @@
 # Movie_app
-boostcourse
+
 ## 📚**프로젝트 개요**
 
-![image](https://github.com/hyeonjinan096/Movie_app/assets/107539614/e51eaa4f-1b6a-473a-9ff6-02336adb9dee)
+https://www.notion.so/f8fd40b37556419f9c9d400af3cd50c3?pvs=4#c4ead00fce8046f5a7dd3c2a50e7939a
 
 
 [부스트코스]안드로이드 앱 프로그래밍
@@ -13,12 +13,19 @@ boostcourse
 <aside>
 💡
 1. 영화상세 화면 만들기
+  
 2. 좋아요와 한줄평 리스트
+
 3. 한줄평 화면으로 전환하기
+
 4. 영화목록과 바로가기 메뉴
+
 5. 서버에서 영화정보 가져오기
+
 6. 영화정보를 단말에 저장하기
+
 7. 사진보기와 동영상 재생
+
 8. 영화 앱을 더 즐겁게
 
 </aside>
