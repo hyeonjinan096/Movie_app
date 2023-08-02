@@ -2,7 +2,8 @@
 boostcourse
 ## 📚**프로젝트 개요**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5812be99-9064-4810-887c-0dcaab38d10d/Untitled.png)
+![image](https://github.com/hyeonjinan096/Movie_app/assets/107539614/e51eaa4f-1b6a-473a-9ff6-02336adb9dee)
+
 
 [부스트코스]안드로이드 앱 프로그래밍
 
@@ -10,7 +11,8 @@ boostcourse
 - 총 8개로 구성된 단계별 프로젝트를 수행하고 팀원들과 코드리뷰를 하고 공부한 내용을 발표하는 방식으로 스터디를 진행했습니다.
 
 <aside>
-💡 1. 영화상세 화면 만들기
+💡
+1. 영화상세 화면 만들기
 2. 좋아요와 한줄평 리스트
 3. 한줄평 화면으로 전환하기
 4. 영화목록과 바로가기 메뉴
